@@ -1,14 +1,15 @@
 ##########################
 # Unreal Generated Files #
 ##########################
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/Saved
-BuildingEscape/Content/StarterContent/
+UnrealCourse/Section_03/BuildingEscape/Build
+UnrealCourse/Section_03/BuildingEscape/Binaries
+UnrealCourse/Section_03/BuildingEscape/DerivedDataCache
+UnrealCourse/Section_03/BuildingEscape/Saved/
+UnrealCourse/Section_03/BuildingEscape/Intermediate/
+UnrealCourse/Section_03/BuildingEscape/Content/StarterContent/
 
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
+
