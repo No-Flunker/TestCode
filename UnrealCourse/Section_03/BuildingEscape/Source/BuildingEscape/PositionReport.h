@@ -2,9 +2,11 @@
 
 #pragma once
 
+//#include "Engine.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "PositionReport.generated.h"
+
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
